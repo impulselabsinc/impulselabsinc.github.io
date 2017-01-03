@@ -1,7 +1,9 @@
 # Impulse Labs
 ______
 **Kindergarten**
-* Keyboarding
+
+
+ * Keyboarding
    * [Keyboard Zoo](http://www.abcya.com/keyboarding_practice.htm)
    * [Keyboard Zoo 2](http://www.abcya.com/keyboarding_practice.htm)
    * [Keyboard Climber](http://www.abcya.com/keyboarding_practice.htm)
@@ -23,4 +25,3 @@ ______
    * [Number Bingo (`requires headphones`)](http://www.abcya.com/number_bingo.htm)
    * [It's Fun to Read (`requires headphones`)](http://www.starfall.com/n/level-b/index/load.htm?)
    * [Alphabet Match (`requires headphones`)](http://www.abcya.com/alphabet_matching_game.htm)
-___
