@@ -25,3 +25,5 @@ ______
    - [Number Bingo (`requires headphones`)](http://www.abcya.com/number_bingo.htm)
    - [It's Fun to Read (`requires headphones`)](http://www.starfall.com/n/level-b/index/load.htm?)
    - [Alphabet Match (`requires headphones`)](http://www.abcya.com/alphabet_matching_game.htm)
+- Coding
+   - [Code Commander](http://morrisgames.info/)
