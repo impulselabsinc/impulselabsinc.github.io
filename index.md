@@ -11,6 +11,7 @@ ______
    - [Typing Rocket Junior](http://www.abcya.com/typing_rocket_junior.htm)
    - [Typing](http://www.abcya.com/keyboarding_practice.htm)
  - Mouse Practice
+   - [Jigsaw](https://studio.code.org/s/course1/stage/3/puzzle/1)
    - [Mouse Practice](http://practicadelmouse.altervista.org/)
    - [Bees and Honey](http://www.tvokids.com/play/bees_and_honey/bee2blueback.swf)
    - [Connect the Dots](http://www.abcya.com/connect_the_dots.htm)
@@ -27,3 +28,5 @@ ______
    - [Alphabet Match (`requires headphones`)](http://www.abcya.com/alphabet_matching_game.htm)
 - Coding
    - [Code Commander](http://morrisgames.info/)
+   - [Angry Birds Maze 1](https://studio.code.org/s/course1/stage/4/puzzle/1)
+   - [Angry Birds Maze 2] (https://studio.code.org/s/course1/stage/5/puzzle/1)
