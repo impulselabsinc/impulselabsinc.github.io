@@ -26,7 +26,9 @@ ______
    - [Number Bingo (`requires headphones`)](http://www.abcya.com/number_bingo.htm)
    - [It's Fun to Read (`requires headphones`)](http://www.starfall.com/n/level-b/index/load.htm?)
    - [Alphabet Match (`requires headphones`)](http://www.abcya.com/alphabet_matching_game.htm)
-- Coding
+ - Coding
    - [Code Commander](http://morrisgames.info/)
    - [Angry Birds Maze 1](https://studio.code.org/s/course1/stage/4/puzzle/1)
    - [Angry Birds Maze 2] (https://studio.code.org/s/course1/stage/5/puzzle/1)
+ - Linux
+   - [Basic Commands and Git] (https://github.com/impulselabsinc/students)
