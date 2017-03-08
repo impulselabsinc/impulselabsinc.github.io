@@ -30,6 +30,8 @@ ______
    - [Code Commander](http://morrisgames.info/)
    - [Angry Birds Maze 1](https://studio.code.org/s/course1/stage/4/puzzle/1)
    - [Angry Birds Maze 2](https://studio.code.org/s/course1/stage/5/puzzle/1)
+   - [Minecraft Adventurer (`requires headphones`)](https://studio.code.org/s/mc/stage/1/puzzle/1)
+   - [Minecraft Designer (`requires headphones`)](https://studio.code.org/s/minecraft/stage/1/puzzle/1)
    - [Kano Art](http://art.kano.me/challenges)
  - Linux
    - [Basic Commands and Git](https://github.com/impulselabsinc/students)
