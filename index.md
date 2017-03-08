@@ -1,6 +1,6 @@
 # Impulse Labs
 ______
-**Kindergarten**
+**Kindergarten/1st Grade**
 
 
  - Keyboarding
@@ -35,3 +35,6 @@ ______
    - [Kano Art](http://art.kano.me/challenges)
  - Linux
    - [Basic Commands and Git](https://github.com/impulselabsinc/students)
+
+* Bullet
+  * Nested
