@@ -36,5 +36,4 @@ ______
  - Linux
    - [Basic Commands and Git](https://github.com/impulselabsinc/students)
 
-* Bullet
-  * Nested
+
