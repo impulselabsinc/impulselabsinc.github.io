@@ -12,7 +12,6 @@ ______
    - [Typing](http://www.abcya.com/keyboarding_practice.htm)
  - Mouse Practice
    - [Jigsaw](https://studio.code.org/s/course1/stage/3/puzzle/1)
-   - [Mouse Practice](http://practicadelmouse.altervista.org/)
    - [Bees and Honey](http://www.tvokids.com/play/bees_and_honey/bee2blueback.swf)
    - [Connect the Dots](http://www.abcya.com/connect_the_dots.htm)
  - Mathematics
