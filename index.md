@@ -5,11 +5,10 @@ ______
 
  - Keyboarding
    - [Keyboard Zoo](http://www.abcya.com/keyboarding_practice.htm)
-   - [Keyboard Zoo 2](http://www.abcya.com/keyboarding_practice.htm)
+   - [Keyboard Zoo 2](http://www.abcya.com/keyboarding_practice_2.htm)
    - [Keyboard Climber](http://www.abcya.com/keyboarding_practice.htm)
    - [Kids Typing Practice](http://kidstyping.weebly.com/)
    - [Typing Rocket Junior](http://www.abcya.com/typing_rocket_junior.htm)
-   - [Typing](http://www.abcya.com/keyboarding_practice.htm)
  - Mouse Practice
    - [Jigsaw](https://studio.code.org/s/course1/stage/3/puzzle/1)
    - [Bees and Honey](http://www.tvokids.com/play/bees_and_honey/bee2blueback.swf)
