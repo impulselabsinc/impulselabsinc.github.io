@@ -6,7 +6,7 @@ ______
  - Keyboarding
    - [Keyboard Zoo](http://www.abcya.com/keyboarding_practice.htm)
    - [Keyboard Zoo 2](http://www.abcya.com/keyboarding_practice_2.htm)
-   - [Keyboard Climber](http://www.abcya.com/keyboarding_practice.htm)
+   - [Keyboard Climber 2](https://www.typing.com/student/games/play/keyboard-climber-2)
    - [Kids Typing Practice](http://kidstyping.weebly.com/)
    - [Typing Rocket Junior](http://www.abcya.com/typing_rocket_junior.htm)
  - Mouse Practice
@@ -18,6 +18,8 @@ ______
    - [Balloon Pop Subtraction](http://www.abcya.com/subtraction_game.htm)
    - [Numerical Order](http://www.abcya.com/numerical_order.htm)
    - [Learning Coins (`requires headphones`)](http://www.abcya.com/learning_coins.htm)
+   - [Math Facts Basketball](http://www.abcya.com/math_facts_game.htm)
+   - [Jet Ski Addition](http://www.abcya.com/jet_ski_addition.htm)
  - Language
    - [Spelling Practice (`requires headphones`)](http://www.abcya.com/dolch_sight_word_spelling.htm)
    - [Word Bingo (`requires headphones`)](http://www.abcya.com/dolch_sight_word_bingo.htm)
