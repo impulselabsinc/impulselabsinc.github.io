@@ -35,5 +35,6 @@ ______
    - [Kano Art](http://art.kano.me/challenges)
  - Linux
    - [Basic Commands and Git](https://github.com/impulselabsinc/students)
-
+ - Engineering
+   - [Simple Machines](https://www.msichicago.org/play/simplemachines/)
 
